@@ -9,3 +9,4 @@ outputs/
 **/*.bk
 **/*.o
 
+shared-folder
